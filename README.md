@@ -1,8 +1,22 @@
-# React + Vite
+# <span style="display:flex;justify-content: center;align-items: center;gap:15px"> <img src="./src/assets/images/eren-logo.webp" style="width: 40px">EREN - PetShop</span>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción
 
-Currently, two official plugins are available:
+Primer preentrega del curso de React de **Coderhouse**, "Crea tu landing". Se basa en disponer las bases para la creación de un e-commerce: **Navbar, ItemListContainer y CardWidget**. Adicionalmente se agregó un **ItemCard**. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologías
+
+- React 18
+- TailwindCSS
+- Vite
+
+## Instalación
+
+- Clonar el sitio con el comando **git clone https://github.com/Jorgedc87/CreaTuLanding1Calder-n.git**
+- Instalar dependencias: **npm install**
+- Ejecutar la instancia de desarrollo: **npm run dev**
+
+## Licencia y versión
+- **Versión:** 1.0
+- **Licencia:** Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más información.
+- **Autor:** Jorge Calderón
